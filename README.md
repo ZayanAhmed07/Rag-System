@@ -352,7 +352,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 **Zayan Ahmed**
 - GitHub: [@ZayanAhmed07](https://github.com/ZayanAhmed07)
-- Email: zayank47744@gmail.com
+- Email: zayank4774@gmail.com
 
 ## 🗺️ Roadmap
 
